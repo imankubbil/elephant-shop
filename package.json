@@ -1,0 +1,23 @@
+{
+  "name": "elephant-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "pg-promise": "^10.10.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
