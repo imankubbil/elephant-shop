@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0",
     "fs": "0.0.1-security",
     "pg-promise": "^10.10.2",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
